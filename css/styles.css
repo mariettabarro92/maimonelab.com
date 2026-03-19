@@ -1,0 +1,120 @@
+@charset "UTF-8";
+.container-fluid {
+	background-color: #ADADAD;
+}
+footer {
+	min-width: 100%;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	background-color: #383838;
+	color: #F5F5F5;
+	text-align: center;
+}
+.navbar.navbar-default {
+	padding-bottom: 5px;
+}
+h1, h3, p {
+	text-align: center;
+}
+#main {
+	width: 90%;
+	max-width: 750px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 50px;
+	margin-bottom: 60px;
+}
+.image-fill {
+	width: 100%;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.logo {
+	padding-right: 5%;
+	padding-top: 5%;
+	padding-left:10%;
+}
+.MRG {
+	margin-left: 2%;
+}
+.atUCB {
+	margin-left: 5%;
+}
+.carousel-caption-clickable {
+	color: #FFFFFF
+}
+.carousel-caption-clickable:hover {
+	color: #FFFFFF
+}
+.carousel-caption-clickable:visited {
+	color: #FFFFFF
+}
+.index-tumbnails-bckgd {
+	border: none;
+	background-color: #C9C9C9;
+}
+.index-thumbnails-container {
+	margin-top: 100px;
+}
+.index-thumb-text {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
+}
+.research-complex-molec-synth {
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", serif;
+	font-weight: bold;
+}
+.research-text {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", serif;
+	font-size: 18px;
+}
+#article-pub {
+	border-top-color: #000000;
+	border-top-style: double;
+	/* [disabled]border-spacing: px px; */
+	border-bottom-style: double;
+	border-bottom-color: #000000;
+	text-align: center;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.pubslide {
+	margin-left: auto;
+	margin-right: auto;
+	display: block;
+}
+.pub-clickable-font {
+	color: #000000;
+}
+.articletom-centered {
+	display: block;
+	width: auto;
+	margin-left: 15%;
+	margin-right: 10%;
+}
+.tom-photo {
+	display: block;
+	margin-left: auto;
+	margin-right: 5%;
+	float: left;
+	margin-bottom: 5px;
+}
+.educ {
+	list-style: none
+}
+.img-people {
+	margin-right: 20px;
+	float: left;
+	margin-bottom: 5px;
+}
+.cal-colors {
+	color: #FFBD17;
+	background-color: #003057;
+}
+.people-thumbnail-bckgrd {
+	background-color: #ADADAD;
+	border-color: #ADADAD;
+}
+
